@@ -28,5 +28,5 @@ function refuse() {
 
 function love() {
     alert("", "爱你爱你~~~", function () {
-    }, {confirmButtonText: '我也爱你~~~', width: 400, type: 'love'});
+    }, {confirmButtonText: '我也爱你啊~~~', width: 400, type: 'love'});
 }
